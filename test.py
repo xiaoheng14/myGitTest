@@ -1,4 +1,4 @@
 # -*- coding: utf-8 -*-
 
 print 'Hello Python!'
-print 'hello'
+print 'python'
